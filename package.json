@@ -1,8 +1,8 @@
 {
-  "name": "my-project",
+  "name": "vuejs-demo",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Kohei.Saito <Kohei.Saito@sony.com>",
+  "author": "SightSeeker",
   "license": "MIT",
   "private": true,
   "scripts": {
